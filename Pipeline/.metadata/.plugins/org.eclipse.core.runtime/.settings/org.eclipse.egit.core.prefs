@@ -1,1 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\ProgWorkspaces\\Spring\\DevOps
+GitRepositoriesView.GitDirectories=C\:\\ProgWorkspaces\\Spring\\DevOps\\pipeitup\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\ProgWorkspaces\\Spring\\DevOps\\pipeitup\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
