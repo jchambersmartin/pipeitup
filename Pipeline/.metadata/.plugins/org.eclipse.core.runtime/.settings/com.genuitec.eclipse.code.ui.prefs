@@ -32,6 +32,7 @@ TYPE=\#a2acb3 | false | false | false | false
 UNIT=\#D8D8D8 | false | false | false | false
 VALUE=\#79ABFF | false | false | false | false
 VARIABLE=\#79ABFF | false | false | false | false
+codemix.newfile.notification.html=false
 codemix.settings.migration=true
 deletedObsoleteMarkers=true
 displaySyntaxColorInfo=false
